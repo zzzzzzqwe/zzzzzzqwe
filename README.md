@@ -1,7 +1,7 @@
 #### 1\. Hi there, my name is Gachayev Dmitrii. 👋
 ![images/288754.jpg](images/288754.jpg) 
-#### 3\. I am a higly motivated Computer Science student, currently working as a QA Engineer for Your Story Interactive.
-#### 4\. I am interested in programming and computer science in general.
+#### 3\. I am a higly motivated Computer Science student, currently working as a QA Engineer for Your Story Interactive. Trying to spend my time efficiently and always find room for imrovement.
+#### 4\. Always interested in programming and computer science in general. Also like solving leetcode problems, playing computer games and watching TV-shows in my free time.
 #### 5\. Programming languages: 
 ##### Proficient in: 
 - Java
