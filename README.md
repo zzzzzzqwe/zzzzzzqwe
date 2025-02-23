@@ -9,5 +9,5 @@
    Currently learning: PHP
 
    Willing to learn: C#
-8. You can contact me via email: dima.gachayev@gmail.com
+6. You can contact me via email: dima.gachayev@gmail.com
 
