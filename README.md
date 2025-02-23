@@ -2,15 +2,16 @@
 ![images/288754.jpg](images/288754.jpg) 
 #### 3\. I am a higly motivated Computer Science student, currently working as a QA Engineer for Your Story Interactive.
 #### 4\. I am interested in programming and computer science in general.
-#### 5\. Proficient in: 
+#### 5\. Programming languages: 
+##### Proficient in: 
 - Java
 - C++
 
-#### Currently learning: 
+##### Currently learning: 
 - PHP
 - Python
 
-#### Willing to learn: 
+##### Willing to learn: 
 - C#
 - Javascript
 
