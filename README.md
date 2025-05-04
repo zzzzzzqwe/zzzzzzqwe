@@ -11,7 +11,7 @@
 - Python
 
 ##### Willing to learn: 
-- C#
+- Golang
 - Javascript
 
 #### 📪 You can contact me via email: dima.gachayev@gmail.com
